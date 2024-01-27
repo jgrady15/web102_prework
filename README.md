@@ -1,4 +1,4 @@
-# WEB102 Prework - *Web102 Prework - SeaMonster Crowdfunding Website*
+# WEB102 Prework - *SeaMonster Crowdfunding Website*
 
 Submitted by: **Jonathan Grady**
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/Web102_websiteGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/2f0l2Ul' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap 
@@ -33,14 +33,11 @@ GIF created with LiceCap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
-The only issues I really had was trying to understand Javascript Syntax, as I am mainly comfortable coding in C++ and Python. I also faced some issues understanding how files interact with one another in Javascript.
+The only issues I really had was trying to understand Javascript Syntax, as I am mainlycomfortable coding in C++ and Python. I also faced some issues understanding how files interact with one another in Javascript.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Jonathan Grady
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
