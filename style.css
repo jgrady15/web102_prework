@@ -14,13 +14,53 @@ body {
     background-color: lightblue;
     padding: 1%;
     align-items: center;
-    margin-left: -10px;
-    margin-right: -10px;
-    margin-top: -10px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.search-container {
+    display: flex;
+    width: 25%;
+    align-items: center;
+}
+
+#search-bar {
+    background-color: #a8b0bc;
+    border: none;
+    border-radius: 8px;
+    padding: 1%;
+    margin: 1%;
+    width: 50%;
+    font-size: 12px;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    width: 10em;
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
 }
 
 .stats-container {
     display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -64,6 +104,7 @@ body {
 
 #button-container {
     text-align: center;
+    align-items: center;
 }
 
 button {
